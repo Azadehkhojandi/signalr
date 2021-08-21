@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKlAUY6KdGayatGcbFq1PzpPXIr535BsrpAkL5GgPdUjDR/NWtPEZDaJzAd/kpUSCSLWil/RM4O3ChFDW6QCYQ==",
+  "success": true,
+  "projectFilePath": "C:\\work\\signalr\\Notify.APi\\Notify.APi\\Notify.APi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azkhojan\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.1\\microsoft.aspnet.signalr.core.2.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.SignalR.Core 2.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.SignalR.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
